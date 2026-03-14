@@ -1,6 +1,7 @@
 # 🚗 Favourite BMW — Sales Data Analysis (2010–2024)
 
-![BMW Banner](https://private-user-images.githubusercontent.com/245818776/556078530-93c58204-5630-44d7-a751-8c6224592fec.jpg)
+![BMW Banner]
+
 
 > *"No movie made a bigger impression on a young 10-year-old John like Jason Statham's Transporter."*
 
@@ -83,6 +84,4 @@ Lifelong car enthusiast. Data analyst in the making. BMW dreamer.
 
 ---
 
-## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
