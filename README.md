@@ -1,6 +1,7 @@
 # 🚗 Favourite BMW — Sales Data Analysis (2010–2024)
 
 > *"No movie made a bigger impression on a young 10-year-old John like Jason Statham's Transporter."*
+![bmw banner](https://github.com/user-attachments/assets/3214890b-5e2f-4caf-9f8e-7ff1a7dd02f3)
 
 ---
 
